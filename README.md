@@ -1,6 +1,10 @@
 # AI Resume Builder
+![screencapture-fantastic-conkies-25e658-netlify-app-2025-03-27-17_41_10](https://github.com/user-attachments/assets/9888aad5-1d96-4630-aa7d-ce9a80789897)
 
-![AI Resume Builder](https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![screencapture-fantastic-conkies-25e658-netlify-app-dashboard-2025-03-27-17_41_27](https://github.com/user-attachments/assets/d1919b7d-23e0-4bf9-a44a-ac13c47c75e3)
+
+![screencapture-fantastic-conkies-25e658-netlify-app-create-2025-03-27-17_41_35](https://github.com/user-attachments/assets/5a24576c-1d70-4317-8357-893efdd9fef4)
+
 
 ## Overview
 
